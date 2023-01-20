@@ -21,13 +21,6 @@
       "telefono": 319381983,
       "email": "miguel@juan.com",
       "empresa": "Codigo Con Juan"
-    },
-    {
-      "id": 5,
-      "nombre": "Pedro",
-      "telefono": 1398198938,
-      "email": "pedro@juan.com",
-      "empresa": "Codigo Con Juan"
     }
   ]
 }
